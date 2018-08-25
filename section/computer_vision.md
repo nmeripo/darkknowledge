@@ -2,8 +2,8 @@
 layout: computer_vision
 ---
 
-## Welcome to another page
+## Index
 
-_yay_
+* [**Image Recogntion**](./computer_vision/image_recognition.html)
 
 [back](../)

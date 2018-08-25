@@ -2,7 +2,7 @@
 layout: deep_learning
 ---
 
-## Welcome to another page
+## Index
 
 _yay_
 

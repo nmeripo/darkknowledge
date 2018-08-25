@@ -2,8 +2,7 @@
 layout: natural_language_processing
 ---
 
-## Welcome to another page
-
+## Index
 _yay_
 
 [back](../)

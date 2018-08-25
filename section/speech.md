@@ -2,7 +2,7 @@
 layout: speech
 ---
 
-## Welcome to another page
+## Index
 
 _yay_
 
