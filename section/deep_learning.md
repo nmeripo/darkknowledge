@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: sections
 ---
 
 ## Welcome to another page
