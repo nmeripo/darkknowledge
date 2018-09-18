@@ -1,26 +1,12 @@
 # Machine Learning Blog
 
-### Stylesheet
-
-If you'd like to add your own custom styles:
-
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
-
-    @import "{{ site.theme }}";
-    ```
-
-
 ## Roadmap
 
 See the [open issues](https://github.com/pages-themes/merlot/issues) for a list of proposed features (and known issues).
 
-## Blog philosophy
+## Philosophy
 
-The Merlot theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+The website is intended to make it quick and easy for me to share my learnings in Machine Learning. The website should provide contenent ranging from theoretical foundations to advanced concepts across multiple domains, and provide visitors the opportunity to correct or add additional information. 
 
 ## Contributing
 
