@@ -1,4 +1,4 @@
-# Contributing to The Merlot Theme
+# Contributing to The Articles
 
 Hi there! We're thrilled that you'd like to contribute to The Merlot Theme. Your help is essential for keeping it great.
 
