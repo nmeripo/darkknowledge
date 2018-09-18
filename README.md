@@ -1,4 +1,4 @@
-# Machine Learning Blog by NIMSHI
+# Machine Learning Blog
 
 ### Stylesheet
 
