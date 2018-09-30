@@ -4,6 +4,6 @@ layout: machine_learning
 
 ## Index
 
-_yay_
+* [**Nearest Neighbors**](./machine_learning/knn.html)
 
 [back](../)
