@@ -4,6 +4,6 @@ layout: speech
 
 ## Index
 
-_yay_
+* [**SPEECH RECOGNITION WITH WEIGHTED FINITE-STATE TRANSDUCERS**](./speech/srwwsft.html)
 
 [back](../)
